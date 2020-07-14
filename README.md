@@ -4,7 +4,7 @@
 <a href="https://www.facebook.com/larissa.miyaji" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook - Larissa Miyaji"></a>
 ***
 - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
-- 💻 I'm currently a Junior Front-End Development Student at <Laboratoria>.
+- 💻 I'm currently a Junior Front-End Development Student at \<Laboratoria\>.
 - 🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more.
 <!--
 **larissamiyaji/larissamiyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
