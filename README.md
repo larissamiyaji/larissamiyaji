@@ -8,7 +8,7 @@
         <img src="insta.ico" heigth="30px" width="30px" alt="Instagram - Larissa Miyaji">
     </a>
     <a href="https://www.facebook.com/larissa.miyaji" target="_blank">
-        <img src="facebook.png" alt="Facebook - Larissa Miyaji">
+        <img src="facebook.png" heigth="30px" width="30px" alt="Facebook - Larissa Miyaji">
     </a>
 </div>
 
