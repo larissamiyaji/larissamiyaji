@@ -12,14 +12,13 @@
        <img src="https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/facebook.png" heigth="30px" width="30px"    alt="Facebook - Larissa Miyaji">
     </a>
 </div>
-<br>
 
 <div align="center">
     <h3>About me</h3>
 </div>
-<p> 
-    - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
-    - 💻 I'm currently a Junior Front-End Development Student at Laboratoria. <br>
-    - 🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more. <br>
-    - ⚡ Fun fact: I'm a graduated Internationalist who decided to migrate to a completely different area. Here, you can see some of my projects and keep up with my knowledge and skills improvement.
+<p text="bold"> 
+    🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
+    💻 I'm currently a Junior Front-End Development Student at Laboratoria. <br>
+    🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more. <br>
+    ⚡ Fun fact: I'm a graduated Internationalist who decided to migrate to a completely different area. Here, you can see some of my projects and keep up with my knowledge and skills improvement.
 </p>
