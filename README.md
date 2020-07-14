@@ -5,7 +5,7 @@
         <img src="linkedin.png" heigth="30px" width="30px" alt="LinkedIn - Larissa Miyaji">
     </a>
     <a href="https://www.instagram.com/larissamiyaji/" target="_blank">
-        <img src="insta.png" heigth="30px" width="30px" alt="Instagram - Larissa Miyaji">
+        <img src="instagram.png" heigth="30px" width="30px" alt="Instagram - Larissa Miyaji">
     </a>
     <a href="https://www.facebook.com/larissa.miyaji" target="_blank">
         <img src="facebook.png" heigth="30px" width="30px" alt="Facebook - Larissa Miyaji">
