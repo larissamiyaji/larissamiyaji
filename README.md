@@ -16,6 +16,6 @@
 
 <h3>About me</h3>
 <p> - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.</p>
-<p> - 💻 I'm currently a Junior Front-End Development Student at \<Laboratoria\>.</p>
+<p> - 💻 I'm currently a Junior Front-End Development Student at \<Laboratoria\>. </p>
 <p> - 🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more.</p>
 <p> - ⚡ Fun fact: I'm a graduated Internationalist who decided to migrate to a completely different area. Here, you can see some of my projects and keep up with my knowledge and skills improvement.</p>
