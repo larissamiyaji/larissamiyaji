@@ -16,7 +16,7 @@
 <div align="center">
     <h3>About me</h3>
 </div>
-<p text="bold"> 
+<p font-weight="bold"> 
     🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
     💻 I'm currently a Junior Front-End Development Student at Laboratoria. <br>
     🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more. <br>
