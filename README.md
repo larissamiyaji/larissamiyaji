@@ -1,9 +1,9 @@
 ![welcome](https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/covergithub.png)<br>
 
 <div align="center">
-    <h3>About me</h3>
+    <h3 font-family: 'Source Code Pro', monospace;>About me</h3>
 </div>
-<p> 
+<p font-family: 'Source Code Pro', monospace;> 
     🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
     💻 I'm currently a Junior Front-End Development Student at Laboratoria. <br>
     🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more. <br>
@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<h3>You can also find me here: </h3>
+<h3 font-family: 'Source Code Pro', monospace;>You can also find me here: </h3>
     <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
         <img src="https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/linkedin.png" heigth="30px" width="30px"   alt="LinkedIn - Larissa Miyaji">
     </a>
