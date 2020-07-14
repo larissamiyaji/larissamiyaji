@@ -1,6 +1,7 @@
 ![welcome](https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/covergithub.png)<br>
 
 <div align="center">
+    <h1>You can also find me here: </h1>
     <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
         <img src="https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/linkedin.png" heigth="30px" width="30px"   alt="LinkedIn - Larissa Miyaji">
     </a>
