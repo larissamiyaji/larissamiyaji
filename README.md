@@ -1,4 +1,4 @@
-<img src="cover.png" alt="Welcome to My GitHub">
+<img src="covergithub.png" alt="Welcome to My GitHub">
 
 <!--
 **larissamiyaji/larissamiyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
