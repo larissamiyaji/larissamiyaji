@@ -1,4 +1,4 @@
-![welcome](covergithub.png)<br>
+![welcome](https://github.com/larissamiyaji/larissamiyaji/blob/master/covergithub.png)<br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
