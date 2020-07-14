@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/    LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - Larissa Miyaji">
     </a>
     <a href="https://www.instagram.com/larissamiyaji/" target="_blank">
-        <img src="insta.ico" heigth="20px" width="20px" alt="Instagram - Larissa Miyaji">
+        <img src="insta.ico" heigth="30px" width="30px" alt="Instagram - Larissa Miyaji">
     </a>
     <a href="https://www.facebook.com/larissa.miyaji" target="_blank">
         <img src="facebook.png" alt="Facebook - Larissa Miyaji">
