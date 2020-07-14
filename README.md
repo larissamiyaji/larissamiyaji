@@ -1,5 +1,5 @@
 ![welcome](covergithub.png)
-
+<a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - Larissa Miyaji"></a>
 ***
 - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
 - 🌱 I’m currently learning JavaScript, React, HTML5, CSS3 and many more.
