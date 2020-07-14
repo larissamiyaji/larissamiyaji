@@ -11,7 +11,7 @@
        <img src="https://github.com/larissamiyaji/larissamiyaji/blob/master/facebook.png" heigth="30px" width="30px"    alt="Facebook - Larissa Miyaji">
     </a>
 </div>
-
+<br>
 - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
 - 💻 I'm currently a Junior Front-End Development Student at \<Laboratoria\>.
 - 🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more.
