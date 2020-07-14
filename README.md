@@ -1,7 +1,7 @@
 <!-- ![welcome](covergithub.png)<br> -->
 
 <div align="center" width="50">
-    <img src="covergithub.png" alt="Welcome!" width="300"/>
+    <img src="covergithub.png" alt="Welcome!"/>
 </div>
 
 <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
