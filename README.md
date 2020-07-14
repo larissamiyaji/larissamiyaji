@@ -1,9 +1,5 @@
 ![welcome](https://github.com/larissamiyaji/larissamiyaji/blob/master/covergithub.png)<br>
 
-<div align="center" width="50">
-    <img src="covergithub.png" alt="Welcome!"/>
-</div>
-
 <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
     <img src="linkedin.png" heigth="30px" width="30px" alt="LinkedIn - Larissa Miyaji">
 </a>
