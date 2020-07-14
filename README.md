@@ -1,7 +1,7 @@
 ![welcome](https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/covergithub.png)<br>
 
 <div align="center">
-    <h3 color="blue">About me</h3>
+    <h3 text-color="blue">About me</h3>
 </div>
 <p> 
     🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
