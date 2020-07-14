@@ -12,6 +12,7 @@
     </a>
 </div>
 <br>
+
 - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
 - 💻 I'm currently a Junior Front-End Development Student at \<Laboratoria\>.
 - 🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more.
