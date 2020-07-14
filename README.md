@@ -1,4 +1,4 @@
-![welcome](covergithub.png)
+![welcome](covergithub.png)<br>
 <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - Larissa Miyaji"></a>
 <a href="https://www.instagram.com/larissamiyaji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram - Larissa Miyaji"></a>
 <a href="https://www.facebook.com/larissa.miyaji" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook - Larissa Miyaji"></a>
