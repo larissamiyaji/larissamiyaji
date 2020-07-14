@@ -1,6 +1,6 @@
 ![welcome](covergithub.png)<br>
 <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - Larissa Miyaji"></a>
-<a href="https://www.instagram.com/larissamiyaji/" target="_blank"><img src="insta.png" alt="Instagram - Larissa Miyaji"></a>
+<a href="https://www.instagram.com/larissamiyaji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram - Larissa Miyaji"></a>
 <a href="https://www.facebook.com/larissa.miyaji" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook - Larissa Miyaji"></a>
 ***
 - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
@@ -8,7 +8,7 @@
 <!--
 **larissamiyaji/larissamiyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+
 
 Here are some ideas to get you started:
 
