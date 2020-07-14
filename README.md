@@ -1,4 +1,8 @@
-![welcome](covergithub.png)<br>
+<!-- ![welcome](covergithub.png)<br> -->
+
+<div align="center" width="50">
+    <img src="covergithub.png" alt="Welcome!" width="300"/>
+</div>
 
 <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
     <img src="linkedin.png" heigth="30px" width="30px" alt="LinkedIn - Larissa Miyaji">
