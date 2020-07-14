@@ -1,7 +1,7 @@
 ![welcome](https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/covergithub.png)<br>
 
+<h3>You can also find me here: </h3>
 <div align="center">
-    <h1>You can also find me here: </h1>
     <a href="https://www.linkedin.com/in/larissamiyaji/" target="_blank">
         <img src="https://github.com/larissamiyaji/larissamiyaji/blob/master/Imagens/linkedin.png" heigth="30px" width="30px"   alt="LinkedIn - Larissa Miyaji">
     </a>
@@ -14,6 +14,7 @@
 </div>
 <br>
 
+<h1>About me</h1>
 - 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
 - 💻 I'm currently a Junior Front-End Development Student at \<Laboratoria\>.
 - 🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more.
