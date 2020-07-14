@@ -1,7 +1,7 @@
 ![welcome](covergithub.png)
 
 ***
-
+- 🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here.
 - 🌱 I’m currently learning JavaScript, React, HTML5, CSS3 and many more.
 <!--
 **larissamiyaji/larissamiyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
