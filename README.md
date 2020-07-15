@@ -5,7 +5,7 @@
 <div align="center">
     <h3 font-family='Source Code Pro', monospace;>About me</h3>
 </div>
-<p font-family='Source Code Pro', monospace;> 
+<p font-family='Source Code Pro', monospace; font-size: 30px> 
     🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
     💻 I'm currently a Junior Front-End Development Student at Laboratoria. <br>
     🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more. <br>
