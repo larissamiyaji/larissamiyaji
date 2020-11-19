@@ -5,8 +5,9 @@
 </div>
 <p> 
     🙋 Hello! I'm Larissa Natsumi Miyaji, nice to see you here. <br>
-    💻 I'm currently a Junior Front-End Development Student at Laboratoria. <br>
-    🌱 I’m learning JavaScript, React, HTML5, CSS3 and many more. <br>
+    🎓 I'm a former Junior Front-End Development Student at Laboratoria. <br>
+    💻 Currently I'm a Jr Software Engineer at CI&T <br>
+    🌱 I’m learning JavaScript, React, HTML5, CSS3, Java, Docker, Python and many more. <br>
     🗺️ Raised and based in São Paulo, SP. <br>
     ⚡ Fun fact: I'm a graduated Internationalist who decided to migrate to a completely different area. Here, you can see some of my projects and keep up with my knowledge and skills improvement.
 </p>
